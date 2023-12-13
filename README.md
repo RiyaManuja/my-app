@@ -2,7 +2,7 @@
 
 ![Gamma_Statistics](screenshots/Gamma_Stats.JPG)
 
-## Below command 
+## Run below command 
 npx json-server --watch Wine-Data.json --port 4000
 
 ## Start the server
